@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-📚 I'm currently learning MERN <br>
+📚 MERN stack developer<br>
 
 ###
 
